@@ -1,15 +1,26 @@
 # Hi there 👋 I am Krishna Evo AKA KrishnaGames0208
 💡Python-developer, i am interested in websites, games and so on.
+
 ## 🔧 My Hard Skills:
+
 Python, Pycharm
+
 Telegram
+
 Pygame
+
 Flask, Sqlite
+
 Tensorflow
+
 ## 📌 My Projects:
+
 [A post Website:](https://github.com/KrishnaGames0208/first-repository)
+
 A telgram bot: (not posted a repository about that yet)
+
 A Game in Python: (not posted a repository about that yet)
+
 <!--
 **KrishnaGames0208/KrishnaGames0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
