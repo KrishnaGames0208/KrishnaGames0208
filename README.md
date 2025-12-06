@@ -21,6 +21,15 @@ A telgram bot: (not posted a repository about that yet)
 
 A Game in Python: (not posted a repository about that yet)
 
+## 🗣 My Soft Skills:
+
+I am pretty social
+
+A little talkative
+
+Like to share my projects with others
+
+Making projects with different people.
 <!--
 **KrishnaGames0208/KrishnaGames0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
